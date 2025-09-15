@@ -7,5 +7,6 @@ public class main
 		Integer a=10;
 		Integer b=20;
 		
+		System.out.println("Addition of a and b :: "+(a+b));
 	}
 }
