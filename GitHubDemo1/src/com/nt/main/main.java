@@ -2,8 +2,10 @@ package com.nt.main;
 
 public class main
 {
-	public main()
+	public static void main(String[] args)
 	{
-		System.out.println("TL");
+		Integer a=10;
+		Integer b=20;
+		
 	}
 }
